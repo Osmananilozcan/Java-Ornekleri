@@ -4,8 +4,10 @@ import java.util.Scanner;
 public class AsalSayiBulma {
     public static void main(String[] args) {
         System.out.print("Sayıyı giriniz: ");
+        
         // Scanner nesnesi oluşturuluyor.
         Scanner veriAl = new Scanner(System.in);
+        
         int sayi = veriAl.nextInt();
         
         // En küçük asal sayı 2 olduğu için 2 verdik.
