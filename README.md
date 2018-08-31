@@ -36,7 +36,7 @@ https://github.com/Osmananilozcan/Java-Ornekleri/blob/master/10-GirilenSayiIcind
 11) Girilen sayının asal olup olmadığını bulma
 https://github.com/Osmananilozcan/Java-Ornekleri/blob/master/11-GirilenSayininAsalOlupOlmadiginiBulma.java
 
-12) Çarpım tablosu
+12) Çarpım tablosu 
 https://github.com/Osmananilozcan/Java-Ornekleri/blob/master/12-Carpi%C4%B1mTablosu.java
 
 13) JOptionPane kullanımı
