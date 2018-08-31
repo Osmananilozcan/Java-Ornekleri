@@ -99,5 +99,5 @@ https://github.com/Osmananilozcan/Java-Ornekleri/blob/master/22-Override1.java
 22.2) Override kullanımı SinifB sınıfı
 https://github.com/Osmananilozcan/Java-Ornekleri/blob/master/22-Override2.java
 
-22.3) Override kullanımı Calistir sınıfı
+22.3) Override kullanımı Calistir sınıfı 
 https://github.com/Osmananilozcan/Java-Ornekleri/blob/master/22-Override3.java
